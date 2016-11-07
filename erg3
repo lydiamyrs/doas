@@ -1,3 +1,8 @@
 -code academy (lmyrsilidi@gmail.com-80..a-lydiamyrs)
 html css
 javascript
+1.The <!DOCTYPE html> declaration should always be the first line of code in your HTML files.
+2.The <html> element will contain all of your HTML code.
+3.Information about the web page, like the title, belongs within the <head> of the page.
+4.You can add a title to your web page by using the <title> element, inside of the head.
+5.Code for visible HTML content will be placed inside of the <body> element.
